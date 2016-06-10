@@ -1,0 +1,1 @@
+[03-May-2016 07:28:47 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/jfisher1991/public_html/lemonapps.co.uk/wp-content/plugins/lemonplugin/lemonplugin.php on line 62

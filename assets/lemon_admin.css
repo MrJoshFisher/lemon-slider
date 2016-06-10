@@ -1,0 +1,14 @@
+.lemon_settings {
+	border: solid #EEEE22 2px;
+	border-radius: 5px;
+	padding: 10px 20px;
+	background-color: white;
+}
+.lemon_info th, td {
+	text-align: left;
+	padding: 5px 0px;
+}
+.lemon_slider_settings th{
+    text-align: left;
+    
+}
